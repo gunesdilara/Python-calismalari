@@ -1,2 +1,2 @@
 # Python-calismalari
- python basit örnekler
+ Python ile öğrendiğim temel bilgiler doğrultusunda basit hesap makinesi projesi yaptım.
